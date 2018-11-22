@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1542819971283' stop='1542819989828'>
+    <name>HeyJobs testing task:</name>
+    <title>HeyJobs testing task:</title>
+    <test-cases>
+        <test-case start='1542819971286' status='passed' stop='1542819977266'>
+            <name>Expect to see a list of 5 jobs, with images, names and locations</name>
+            <title>Expect to see a list of 5 jobs, with images, names and locations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542819977477' status='passed' stop='1542819984461'>
+            <name>After users click on a job from the list, they can see job details and can navigate back from a job details page to the job list</name>
+            <title>After users click on a job from the list, they can see job details and can navigate back from a job details page to the job list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1542819984646' status='passed' stop='1542819989656'>
+            <name>Users see error message when they visit an unknown URL </name>
+            <title>Users see error message when they visit an unknown URL </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

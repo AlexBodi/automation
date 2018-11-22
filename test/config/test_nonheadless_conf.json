@@ -23,6 +23,7 @@
       "reportDir": "output"
     }
   },
+ 
   "name": "Codecept"
 }
 
